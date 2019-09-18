@@ -1,4 +1,4 @@
-# FreshServiceToGitHubIssues
+# Fresh Service To GitHub Issues
 Python script that gets tickets from Fresh Service based on query and puts them into GitHub Issues
 
 
